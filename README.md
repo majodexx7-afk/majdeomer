@@ -62,5 +62,5 @@
 
 ---
 
-<p align="center">This <i>README</i> file is generated with ❤️ by <b>Majde Omer</b><br/>Last refresh: Sunday, 28 September</p>
+<p align="center">This <i>README</i> file is generated with ❤️ by <b>Majde Omer</b><br/>Last refresh: Sunday, 15 Jan </p>
 <p align="center"><img src="https://github.com/majdeomer/majdeomer/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/majdeomer/majdeomer?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/majdeomer/majdeomer?style=flat-square&labelColor=343b41"/></p>
