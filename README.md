@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm <b>Majde Omer</b>, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197467.png" width="13"/> <b>Sudan</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"/> <b>Malaysia</b>. </p>
-
+<p>Welcome to my page! </br> I'm <b>Majde Omer</b>, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg" width="13"/> <b>Sudan</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" width="13"/> <b>Malaysia</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -49,7 +48,7 @@
   <li><a href="#"><b>🚧 Post coming soon...</b></a><br/><i>Stay tuned for my first article!</i></li>
 </ul>
 
-<h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"/> Malaysia!</h3>
+<h3>Välkommen till <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" width="13"/> Malaysia!</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>Above are the last 3 pictures I plan to share here.<br/>Currently, the weather is: <b>☀️  hot & humid</b></br>Today, the sun rises at <b>07:00</b> and sets at <b>19:00</b>.</p>
 
